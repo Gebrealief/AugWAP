@@ -1,0 +1,30 @@
+#aboutmebody{
+    background-color: rgb(94, 92, 92);
+    max-width: 600px;
+    margin: auto;
+    padding: 10px;
+}
+h1{
+     color: antiquewhite;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h3{
+    color:antiquewhite;
+}
+.colored{
+    color: yellow;
+}
+
+.column {
+    float: left;
+    width: 40.33%;
+    padding: 5px;
+    height: 60px;;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }

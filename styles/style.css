@@ -1,0 +1,21 @@
+#homebody {
+    background-image: url("https://pro2-bar-s3-cdn-cf3.myportfolio.com/3fa955cdcffd8c7ec7bc502f7d147c28/46a4c2fe-71ac-4982-b597-8fe7c952d3e1_rw_1200.gif?h=3688f82f2f9ca21687cd334b80da0f42");
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+    margin: 50px 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  #aboutmebody{
+    background-image: url("https://pro2-bar-s3-cdn-cf3.myportfolio.com/3fa955cdcffd8c7ec7bc502f7d147c28/46a4c2fe-71ac-4982-b597-8fe7c952d3e1_rw_1200.gif?h=3688f82f2f9ca21687cd334b80da0f42");
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+    margin: 50px 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  #hewan {
+    border-radius: 50%;
+  }
